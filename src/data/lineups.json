@@ -1,0 +1,40 @@
+[
+  {
+    "id": "mirage-top-mid-smoke-t",
+    "map": "mirage",
+    "type": "smoke",
+    "side": "T",
+    "title": "Top Mid smoke",
+    "from": "T Spawn",
+    "to": "Top Mid",
+    "tick": 64,
+    "steps": [
+      "Ställ dig vid referenspunkten (hörn).",
+      "Sikta på din valda referens (kant/linje).",
+      "Kasta (ev. jumpthrow beroende på tick)."
+    ],
+    "source": {
+      "name": "Original creator/channel",
+      "url": "https://example.com/original-lineup"
+    }
+  },
+  {
+    "id": "inferno-ct-smoke-banana-t",
+    "map": "inferno",
+    "type": "smoke",
+    "side": "T",
+    "title": "CT smoke (B)",
+    "from": "Banana",
+    "to": "CT",
+    "tick": 64,
+    "steps": [
+      "Ställ dig vid väggen nära sandbags.",
+      "Sikta på kanten av takpannan.",
+      "Kasta."
+    ],
+    "source": {
+      "name": "Original creator/channel",
+      "url": "https://example.com/another-source"
+    }
+  }
+]
